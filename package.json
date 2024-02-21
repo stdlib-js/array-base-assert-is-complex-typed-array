@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-assert-is-complex-typed-array",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Test if a value is a complex typed array.",
   "license": "Apache-2.0",
   "author": {
@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/types": "^0.3.1"
+    "@stdlib/types": "^0.3.2"
   },
   "devDependencies": {
     "@stdlib/array-complex128": "^0.2.0",
