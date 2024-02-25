@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isComplexTypedArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-complex-typed-array@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-base-assert-is-complex-typed-array/tags). For example,
+
+```javascript
 import isComplexTypedArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-complex-typed-array@v0.1.1-esm/index.mjs';
 ```
 
@@ -102,7 +107,7 @@ import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@es
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
 import Complex128Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-complex128@esm/index.mjs';
 import Complex64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-complex64@esm/index.mjs';
-import isComplexTypedArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-complex-typed-array@v0.1.1-esm/index.mjs';
+import isComplexTypedArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-complex-typed-array@esm/index.mjs';
 
 var bool = isComplexTypedArray( new Complex128Array( 10 ) );
 // returns true
