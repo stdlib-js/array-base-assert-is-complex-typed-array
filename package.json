@@ -53,6 +53,7 @@
     "@stdlib/array-uint8c": "^0.2.2",
     "@stdlib/assert-is-boolean": "^0.2.2",
     "@stdlib/buffer-alloc-unsafe": "^0.2.2",
+    "@stdlib/string-format": "^0.2.2",
     "@stdlib/utils-constructor-name": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
