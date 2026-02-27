@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`b721461`](https://github.com/stdlib-js/stdlib/commit/b721461895b04dd66f0915c76347244a7cc56148) - **docs:** revert style changes _(by Athan Reines)_
 -   [`3024bb3`](https://github.com/stdlib-js/stdlib/commit/3024bb37f70bf55295d9c4bf81107ff57c15ff8a) - **docs:** fix section comments and lint errors in `array` and `assert` READMEs _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
